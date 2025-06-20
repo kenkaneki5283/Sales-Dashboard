@@ -1,7 +1,7 @@
-1) Project Title
+1) Project Title  
 E-commerce Sales Performance Dashboard
 
-2) Short Description
+2) Short Description 
 This project features an interactive sales dashboard designed to track and analyze online sales data. It leverages advanced visualization techniques, dynamic filters, and slicers to provide comprehensive insights into key sales metrics, customer behavior, and product performance, enabling data-driven decision-making.
 
 3) Tech Stack

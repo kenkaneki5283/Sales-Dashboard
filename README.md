@@ -26,3 +26,4 @@ Sum of Profit by Sub-Category (Bar Chart): Details profit contributions from ind
 Interactive Slicers : Enables dynamic filtering of all visuals based on selected criteria, allowing users to drill down into specific periods, customer segments, or product types for deeper analysis.
 
 5) Screenshots / Demos
+https://github.com/kenkaneki5283/Sales-Dashboard/blob/main/Sales%20Dashboard.png
